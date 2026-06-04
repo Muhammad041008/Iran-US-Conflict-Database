@@ -1,0 +1,14 @@
+Category,Severity,Count
+Geopolitical,High,1
+Maritime / Sanctions,High,3
+Maritime / Sanctions,Medium,6
+Military / Strike,Critical,25
+Military / Strike,High,20
+Military / Strike,Low,1
+Military / Strike,Medium,4
+Nuclear / Enrichment,Critical,5
+Nuclear / Enrichment,High,1
+Political,High,2
+Sanctions / Diplomacy,Critical,1
+Sanctions / Diplomacy,High,19
+Sanctions / Diplomacy,Medium,8

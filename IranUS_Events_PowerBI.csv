@@ -1,0 +1,97 @@
+Date,Year,Category,Aggressor,Target,Event Description,Event Type,Severity,Advantage To,Key Detail / Impact,Scope,Source,Status,Severity_Order,Month
+2018-05-08,2018,Sanctions / Diplomacy,USA,Iran,Trump withdraws US from JCPOA nuclear deal,Political,High,USA,Unilateral withdrawal; reimposed sanctions,Bilateral,CNN / CFR,Stable,2,05
+2018-08-07,2018,Sanctions / Diplomacy,USA,Iran,US reimposed first wave of economic sanctions on Iran,Economic,High,USA,Banking & oil sanctions reinstated,Bilateral,Reuters,Stable,2,08
+2018-11-05,2018,Sanctions / Diplomacy,USA,Iran,US reimposed second wave of sanctions including oil sector,Economic,High,USA,Iranian oil exports targeted,Bilateral,BBC,Stable,2,11
+2019-05-08,2019,Sanctions / Diplomacy,Iran,USA,Iran announces rollback of JCPOA commitments,Political,Medium,Iran,Uranium stockpile limits exceeded,Bilateral,Al Jazeera,Escalating,3,05
+2019-05-13,2019,Military / Strike,Iran-backed,Saudi Arabia,Oil tanker attacks near UAE coast,Attack,High,Iran Proxy,Blamed on Iran-backed groups,Regional,NYT,Escalating,2,05
+2019-06-13,2019,Military / Strike,Iran-backed,Gulf of Oman,Two oil tankers attacked in Gulf of Oman,Attack,High,Iran Proxy,US blamed Iran; Iran denied,Regional,Reuters,Escalating,2,06
+2019-06-20,2019,Military / Strike,Iran,USA,Iran shoots down US RQ-4 Global Hawk drone,Aerial,High,Iran,Drone over Strait of Hormuz,Bilateral,CNN,Escalating,2,06
+2019-07-04,2019,Maritime / Sanctions,UK / Iran,Gibraltar,UK seizes Iranian tanker Grace 1 in Gibraltar,Seizure,Medium,UK-USA Aligned,Oil tanker impounded,Regional,BBC,Stable,3,07
+2019-07-19,2019,Maritime / Sanctions,Iran,UK,Iran seizes British tanker Stena Impero in Strait of Hormuz,Seizure,Medium,Iran,Tit-for-tat tanker seizures,Regional,Guardian,Escalating,3,07
+2019-09-14,2019,Military / Strike,Iran-backed,Saudi Arabia,Drone/missile attack on Saudi Aramco Abqaiq facility,Attack,Critical,Iran Proxy,Oil production cut by 50%; $50bn oil market impact,Regional,WSJ,Critical,1,09
+2019-12-27,2019,Military / Strike,Iran-backed,Iraq,Rocket attack kills US contractor near Kirkuk,Attack,High,Iran Proxy,Kataib Hezbollah blamed,Regional,NYT,Escalating,2,12
+2019-12-29,2019,Military / Strike,USA,Iraq/Syria,US airstrikes on Kataib Hezbollah bases,Airstrike,High,USA,25 fighters killed,Regional,Pentagon,Escalating,2,12
+2019-12-31,2019,Military / Strike,Iran-backed,Iraq,Protesters storm US Embassy in Baghdad,Protest/Attack,High,Iran Proxy,IRGC-backed; building damaged,Regional,Reuters,Critical,2,12
+2020-01-03,2020,Military / Strike,USA,Iraq,US drone strike kills Gen. Qasem Soleimani in Baghdad,Assassination,Critical,USA,IRGC Quds Force chief killed; seismic geopolitical event,Bilateral,Al Jazeera,Critical,1,01
+2020-01-08,2020,Military / Strike,Iran,Iraq,Iran fires 22 ballistic missiles at US bases Ain al-Assad & Erbil,Missile Strike,Critical,Iran,No US fatalities; Iran's largest ballistic missile attack ever on US,Bilateral,DoD,Critical,1,01
+2020-01-08,2020,Military / Strike,Iran,Ukraine (accidental),Iran accidentally shoots down Ukrainian PS752 airliner,Aerial,Critical,Iran (Error),176 killed; later admitted by Iran,Civilian,CBC,Critical,1,01
+2020-01-22,2020,Sanctions / Diplomacy,USA,Iran,US imposes new sanctions on Iran over missile attacks,Economic,High,USA,Treasury Dept sanctions on metals & mining,Bilateral,Reuters,Escalating,2,01
+2020-04-07,2020,Military / Strike,Iran-backed,Iraq,Rockets hit Iraq base housing US troops (Camp Taji),Attack,Medium,Iran Proxy,Multiple attacks; 2 US soldiers wounded,Regional,Military Times,Escalating,3,04
+2020-04-22,2020,Maritime / Sanctions,Iran,Persian Gulf,Iranian Revolutionary Guard boats harass US Navy ships,Harassment,Medium,Iran,11 IRGC vessels; USS Paul Hamilton,Bilateral,CNN,Escalating,3,04
+2020-07-19,2020,Maritime / Sanctions,Iran,Strait of Hormuz,Iran seizes Panamanian-flagged tanker Achilleas,Seizure,Medium,Iran,Accused of fuel smuggling,Regional,Reuters,Escalating,3,07
+2020-07-29,2020,Military / Strike,Iran,Persian Gulf,Iran fires missiles at mock US aircraft carrier in drill,Military Exercise,Low,Iran,Operation 'Prophet Mohammed 14'; propaganda exercise,Bilateral,BBC,Stable,4,07
+2020-09-19,2020,Sanctions / Diplomacy,USA,Iran,US restores ALL UN sanctions on Iran (snapback),Sanctions,High,USA,Disputed by UN allies; unilateral move,Multilateral,UN / Reuters,Escalating,2,09
+2020-11-27,2020,Military / Strike,Israel (US-linked),Iran,Nuclear scientist Mohsen Fakhrizadeh assassinated near Tehran,Assassination,Critical,Israel,Iran blamed Israel; demanded US-backed plot,Regional,NYT,Critical,1,11
+2020-12-20,2020,Military / Strike,Iran-backed,Iraq,Rocket attacks on US Embassy Green Zone Baghdad,Attack,High,Iran Proxy,Largest rocket barrage on embassy compound,Regional,Reuters,Critical,2,12
+2020-12-31,2020,Sanctions / Diplomacy,USA,Iran,US Treasury adds more Iran sanctions in final Trump days,Sanctions,Medium,USA,"Metals, shipping, financial sectors targeted",Bilateral,Treasury.gov,Escalating,3,12
+2021-01-04,2021,Nuclear / Enrichment,Iran,IAEA,Iran begins enriching uranium to 20% at Fordow,Nuclear,Critical,Iran,Violated JCPOA limit of 3.67%,Multilateral,IAEA,Critical,1,01
+2021-02-18,2021,Sanctions / Diplomacy,USA,Iran,Biden admin signals willingness to return to JCPOA talks,Diplomacy,Medium,USA,Reversal of Trump policy,Bilateral,Reuters,De-escalating,3,02
+2021-04-06,2021,Sanctions / Diplomacy,USA & Iran,Vienna,JCPOA talks resume in Vienna,Diplomacy,High,Both,Indirect negotiations via EU mediator,Multilateral,BBC,De-escalating,2,04
+2021-04-11,2021,Military / Strike,Israel (US-linked),Iran,Natanz nuclear facility sabotage (major power outage),Sabotage,Critical,Israel,Iran blamed Israel; set back centrifuge program,Regional,NYT,Critical,1,04
+2021-04-16,2021,Nuclear / Enrichment,Iran,IAEA,Iran begins enriching uranium to 60% — highest ever,Nuclear,Critical,Iran,One step below weapons-grade 90%,Multilateral,IAEA,Critical,1,04
+2021-06-18,2021,Sanctions / Diplomacy,Iran,Domestic,Ebrahim Raisi elected Iran's president; hardliner,Political,High,Iran,Nuclear talks stall under new hardline team,Bilateral,Reuters,Escalating,2,06
+2021-07-29,2021,Maritime / Sanctions,Iran-backed,Gulf of Oman,Drone attack on Israeli-managed tanker Mercer Street; 2 killed,Attack,High,Iran Proxy,UK & Israel blamed Iran; US condemned,Regional,Guardian,Escalating,2,07
+2021-08-01,2021,Maritime / Sanctions,Iran,Gulf of Oman,Iran seizes Asphalt Princess tanker briefly,Seizure,Medium,Iran,Crew released within hours,Regional,BBC,Escalating,3,08
+2021-09-23,2021,Sanctions / Diplomacy,USA,Iran,US imposes sanctions on Iranian drone program,Sanctions,Medium,USA,IRGC drone manufacturers targeted,Bilateral,Treasury.gov,Escalating,3,09
+2021-11-29,2021,Sanctions / Diplomacy,USA & Iran,Vienna,Vienna JCPOA talks resume (7th round),Diplomacy,High,Both,Significant gaps remained; talks fragile,Multilateral,Reuters,Neutral,2,11
+2022-01-17,2022,Military / Strike,Iran,UAE,Houthi (Iran-backed) ballistic missile attack on Abu Dhabi,Missile Strike,High,Iran Proxy,Oil facilities hit; 3 killed,Regional,Reuters,Critical,2,01
+2022-02-24,2022,Geopolitical,Russia,Ukraine,Russia invades Ukraine; Iran provides drones to Russia,Proxy,High,Iran,Shahed drones supplied; Iran-Russia axis strengthened,Multilateral,NATO,Escalating,2,02
+2022-06-10,2022,Military / Strike,Iran,Iraq Kurdistan,"Iran fires ballistic missiles at Erbil, Iraq",Missile Strike,High,Iran,Targeted alleged Israeli 'spy HQ'; 1 killed,Regional,NYT,Critical,2,06
+2022-07-17,2022,Nuclear / Enrichment,Iran,International,Iran advisor says Iran capable of making nuclear bomb,Nuclear,Critical,Iran,Highest-level admission of nuclear capability,Multilateral,BBC,Critical,1,07
+2022-09-13,2022,Sanctions / Diplomacy,Iran,Domestic,Mahsa Amini dies in custody; nationwide protests erupt,Political,High,Iran (Internal),US imposed sanctions on morality police,Domestic/Bilateral,Reuters,Escalating,2,09
+2022-09-22,2022,Sanctions / Diplomacy,USA,Iran,US sanctions IRGC morality police over Amini death,Sanctions,Medium,USA,Treasury targets repression apparatus,Bilateral,Treasury.gov,Escalating,3,09
+2022-10-17,2022,Military / Strike,Iran,Ukraine,Iran supplies Shahed-136 kamikaze drones to Russia for Ukraine war,Proxy,High,Iran,EU/US imposed new sanctions on Iran,Multilateral,CNN,Escalating,2,10
+2022-11-15,2022,Nuclear / Enrichment,Iran,IAEA,Iran enriches uranium to 60% at Fordow site,Nuclear,Critical,Iran,IAEA alarmed; additional inspections demanded,Multilateral,IAEA,Critical,1,11
+2022-11-17,2022,Sanctions / Diplomacy,USA,Iran,US imposes sanctions on Iranian drone manufacturers,Sanctions,High,USA,Shaheed drone program suppliers targeted,Bilateral,Treasury.gov,Escalating,2,11
+2023-01-28,2023,Military / Strike,Iran-backed,Iran,"Drone attack on defense ministry site in Isfahan, Iran",Attack,Medium,Opposition/Israel,Iran blamed Israel-linked groups,Regional,Reuters,Escalating,3,01
+2023-03-10,2023,Sanctions / Diplomacy,Saudi Arabia & Iran,China,Saudi-Iran diplomatic normalization brokered by China,Diplomacy,High,China-brokered,Major geopolitical shift; US sidelined,Regional,NYT,De-escalating,2,03
+2023-05-25,2023,Nuclear / Enrichment,Iran,IAEA,IAEA finds uranium enriched to 83.7% at Fordow,Nuclear,Critical,Iran,Near weapons-grade; major red line crossed,Multilateral,IAEA,Critical,1,05
+2023-07-03,2023,Sanctions / Diplomacy,USA,Iran,US sanctions 6 Iran-linked individuals for terror plots,Sanctions,Medium,USA,Assassination plots against Trump officials,Bilateral,DOJ,Escalating,3,07
+2023-08-10,2023,Military / Strike,USA,Iran,"3,000 US troops deployed to Red Sea amid Iran tensions",Military Deployment,High,USA,USS Bataan & Carter Hall; deterrence mission,Bilateral,DoD,Escalating,2,08
+2023-09-18,2023,Sanctions / Diplomacy,USA & Iran,Qatar,US-Iran prisoner exchange; $6bn Iranian funds released,Diplomacy,High,Both,5 Americans freed; funds moved to Qatar,Bilateral,Reuters,De-escalating,2,09
+2023-10-07,2023,Military / Strike,Hamas (Iran-backed),Israel,"Hamas attacks Israel; 1,200 killed — Iran-backed",Attack,Critical,Iran Proxy,Deadliest attack on Jews since Holocaust,Regional,CNN,Critical,1,10
+2023-10-17,2023,Military / Strike,Iran-backed,Middle East,Iran-backed militias begin attacking US forces in Iraq/Syria,Attack,High,Iran Proxy,180+ attacks over next 12 months,Regional,Pentagon,Critical,2,10
+2023-10-26,2023,Military / Strike,USA,Syria,US airstrikes on IRGC-linked facilities in Syria,Airstrike,High,USA,Response to militia attacks on US troops,Regional,DoD,Escalating,2,10
+2023-11-19,2023,Maritime / Sanctions,Houthi (Iran-backed),Red Sea,Houthis seize Galaxy Leader cargo ship in Red Sea,Seizure,High,Iran Proxy,Crew of 25 held; global shipping disrupted,Regional,Reuters,Critical,2,11
+2023-12-25,2023,Military / Strike,Iran-backed,Iraq,One-way drone attack kills US contractor in Erbil,Attack,High,Iran Proxy,Kataib Hezbollah; US vows response,Regional,NYT,Critical,2,12
+2024-01-28,2024,Military / Strike,Iran-backed,Jordan,Drone attack kills 3 US troops at Tower 22 base in Jordan,Attack,Critical,Iran Proxy,First US military deaths from proxy attack,Bilateral,DoD,Critical,1,01
+2024-02-02,2024,Military / Strike,USA,Iraq/Syria,US strikes 85 targets across Iraq & Syria; IRGC facilities hit,Airstrike,Critical,USA,Operation Inherent Resolve retaliatory strikes,Regional,Pentagon,Critical,1,02
+2024-02-07,2024,Military / Strike,USA,Yemen,US & UK launch additional airstrikes on Houthi sites Yemen,Airstrike,High,USA,Red Sea threat response,Regional,DoD,Escalating,2,02
+2024-03-08,2024,Military / Strike,USA,Iran (IRGC),US kills senior IRGC commander in Syria airstrike,Assassination,High,USA,Brig. Gen. Mohammad Reza Zahedi killed,Bilateral,Reuters,Critical,2,03
+2024-04-01,2024,Military / Strike,Israel,Damascus Syria,Israeli strike on Iranian consulate in Damascus; 13 killed,Airstrike,Critical,Israel,Highest Iranian diplomatic target ever struck,Regional,Al Jazeera,Critical,1,04
+2024-04-14,2024,Military / Strike,Iran,Israel,Iran launches 300+ drones & missiles at Israel — 1st direct attack,Missile Strike,Critical,Iran,99% intercepted by US-led coalition; crossing of red line,Bilateral,IDF,Critical,1,04
+2024-04-19,2024,Military / Strike,Israel,Iran,Suspected Israeli strike on air defense near Isfahan Iran,Airstrike,High,Israel,First direct Israeli strike on Iranian soil,Bilateral,BBC,Critical,2,04
+2024-05-19,2024,Political,Iran,Domestic,President Ebrahim Raisi killed in helicopter crash,Political,High,Accident,Hardline president dies; reformist Pezeshkian succeeds,Domestic,Reuters,Neutral,2,05
+2024-07-31,2024,Military / Strike,Israel,Iran,Hamas political chief Ismail Haniyeh assassinated in Tehran,Assassination,Critical,Israel,Killed in Iranian capital; massive embarrassment for IRGC,Regional,NYT,Critical,1,07
+2024-09-27,2024,Military / Strike,Israel,Lebanon,Israel kills Hezbollah chief Hassan Nasrallah in Beirut,Assassination,Critical,Israel,Iran loses key proxy chief,Regional,Reuters,Critical,1,09
+2024-10-01,2024,Military / Strike,Iran,Israel,Iran launches 2nd direct ballistic missile attack on Israel,Missile Strike,Critical,Iran,200 missiles; most intercepted,Bilateral,IDF,Critical,1,10
+2024-10-26,2024,Military / Strike,Israel,Iran,Israel strikes Iran directly — first overt Israeli attack on Iran,Airstrike,Critical,Israel,Targets air defense & missile production sites,Bilateral,IDF,Critical,1,10
+2024-11-05,2024,Political,USA,Domestic,Trump wins US presidential election; 'maximum pressure' return,Political,High,USA,Iran braces for renewed sanctions,Bilateral,CNN,Escalating,2,11
+2025-01-20,2025,Sanctions / Diplomacy,USA,Iran,Trump signs Executive Order to maximize pressure on Iran,Sanctions,High,USA,Broadest sanctions package since 2018,Bilateral,White House,Escalating,2,01
+2025-02-03,2025,Sanctions / Diplomacy,USA,Iran,US imposes new oil & financial sanctions on Iran,Sanctions,High,USA,Targets Iran's petroleum & central bank,Bilateral,Treasury.gov,Escalating,2,02
+2025-02-28,2025,Military / Strike,USA & Israel,Iran,Combined US-Israeli airstrikes begin; Khamenei killed in Tehran,Airstrike,Critical,USA/Israel,Supreme Leader Ayatollah Khamenei killed; war begins formally,Bilateral,ABC News,Critical,1,02
+2025-03-12,2025,Military / Strike,Iran-backed,Iraq,US KC-135 refueling aircraft shot down over western Iraq; 6 killed,Attack,Critical,Iran Proxy,Deadliest single aviation loss for US in conflict,Bilateral,DoD,Critical,1,03
+2025-03-17,2025,Military / Strike,Israel,Iran,Iran's Ali Larijani killed in Israeli strike in Tehran,Assassination,Critical,Israel,Security Council chief eliminated,Regional,Reuters,Critical,1,03
+2025-03-18,2025,Military / Strike,Israel,Iran,Israel strikes South Pars gas field in Persian Gulf,Airstrike,Critical,Israel,Shared Iran-Qatar gas infrastructure; energy war begins,Regional,CNN,Critical,1,03
+2025-04-01,2025,Military / Strike,Iran,Israel,Iran ballistic missiles strike Israeli cities Tel Aviv & Haifa,Missile Strike,Critical,Iran,Civilian infrastructure targeted; escalation peak,Bilateral,Al Jazeera,Critical,1,04
+2025-06-13,2025,Military / Strike,Iran,Qatar (Al Udeid),Iran fires missiles at Al Udeid US air base in Qatar,Missile Strike,Critical,Iran,Largest US Middle East base targeted; intercepted,Bilateral,Al Jazeera,Critical,1,06
+2025-06-23,2025,Military / Strike,Israel,Iran,Israel strikes Fordow nuclear enrichment facility,Airstrike,Critical,Israel,Day after US bunker-buster bombs hit Fordow,Bilateral,Al Jazeera,Critical,1,06
+2019-04-08,2019,Sanctions / Diplomacy,USA,Iran,US designates IRGC as foreign terrorist organization,Sanctions,High,USA,First time a state military arm designated FTO,Bilateral,State Dept,Escalating,2,04
+2019-06-24,2019,Sanctions / Diplomacy,USA,Iran,Trump signs executive order sanctioning Khamenei directly,Sanctions,High,USA,Supreme Leader personally sanctioned,Bilateral,White House,Escalating,2,06
+2020-03-11,2020,Military / Strike,Iran-backed,Iraq,"Rocket attack on Camp Taji kills 2 US, 1 UK soldiers",Attack,Critical,Iran Proxy,Largest proxy attack fatalities in years,Regional,Pentagon,Critical,1,03
+2020-08-12,2020,Maritime / Sanctions,USA,Iran,US seizes Iranian fuel bound for Venezuela; 4 tankers captured,Seizure,High,USA,Sanctions enforcement at sea,Bilateral,DOJ,Escalating,2,08
+2021-06-23,2021,Military / Strike,USA,Syria,US airstrikes on Iran-backed militia sites near Syria-Iraq border,Airstrike,High,USA,Biden's first Syria strike; deterrence action,Regional,DoD,Escalating,2,06
+2022-08-01,2022,Sanctions / Diplomacy,USA,Iran,JCPOA revival talks fail — EU presents 'final text',Diplomacy,High,Both,Iran adds conditions; talks collapse again,Multilateral,Reuters,Escalating,2,08
+2023-02-25,2023,Military / Strike,USA,Syria,US airstrikes on IRGC-linked storage facilities in Syria,Airstrike,Medium,USA,Response to drone attack on US base,Regional,DoD,Escalating,3,02
+2023-04-18,2023,Sanctions / Diplomacy,USA,Iran,US sanctions more Iran petroleum networks,Sanctions,Medium,USA,Shadow fleet and oil brokers targeted,Bilateral,Treasury.gov,Escalating,3,04
+2023-07-20,2023,Maritime / Sanctions,Iran,Strait of Hormuz,Iran seizes Marshall Islands-flagged tanker near Strait,Seizure,Medium,Iran,Crew detained briefly,Regional,Reuters,Escalating,3,07
+2023-08-24,2023,Nuclear / Enrichment,Iran,IAEA,Iran restricts IAEA inspectors' access at nuclear sites,Nuclear,High,Iran,Removes cameras; monitoring gap,Multilateral,IAEA,Critical,2,08
+2024-01-02,2024,Military / Strike,Iran,Iran,Dual ISIS bombings in Kerman near Soleimani grave; 84 killed,Terrorism,High,ISIS (not US),Iran blames US-Israel despite ISIS claim,Regional,BBC,Escalating,2,01
+2024-03-13,2024,Military / Strike,USA,Syria,US kills senior Hamas official in Damascus airstrike,Assassination,Medium,USA,First direct strike on Hamas in Syria,Regional,DoD,Escalating,3,03
+2024-06-20,2024,Sanctions / Diplomacy,USA,Iran,US sanctions Iran oil network selling to China,Sanctions,High,USA,Ghost fleet operators and Chinese buyers targeted,Bilateral,Treasury.gov,Escalating,2,06
+2024-08-17,2024,Sanctions / Diplomacy,USA,Iran,US imposes new sanctions on IRGC arms exports,Sanctions,Medium,USA,Drone and missile component suppliers targeted,Bilateral,Treasury.gov,Escalating,3,08
+2025-01-15,2025,Sanctions / Diplomacy,USA,Iran,Trump team signals no JCPOA revival; maximum pressure only,Political,High,USA,New admin rejects diplomatic track,Bilateral,Reuters,Escalating,2,01
+2025-02-15,2025,Military / Strike,USA,Yemen,US intensifies strikes on Houthi leadership in Yemen,Airstrike,High,USA,Pre-war escalation against Iran proxy,Regional,DoD,Critical,2,02
+2025-05-10,2025,Military / Strike,Iran,Israel,Iran-backed Hezbollah fires 500+ rockets into northern Israel,Missile Strike,Critical,Iran Proxy,War spreads to Lebanon-Israel front,Regional,IDF,Critical,1,05
+2025-05-20,2025,Sanctions / Diplomacy,USA,Iran,US freezes $20bn+ in Iranian overseas assets,Sanctions,Critical,USA,Largest asset freeze in US-Iran history,Bilateral,Treasury.gov,Critical,1,05
+2025-06-05,2025,Military / Strike,USA,Iran,US B-2 bombers drop bunker-buster bombs on Fordow,Airstrike,Critical,USA,Deepest underground nuclear site targeted,Bilateral,Pentagon,Critical,1,06
