@@ -36,6 +36,6 @@ Pentagon, and PBS — cleaned, organized, and visualized in Excel and Power BI.
 ## 👨‍💻 Created By
 **Muhammad Imran** | Data Analyst | Noida, UP
 - 📧 mohdimran041008@gmail.com
-- 🔗 [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/muhammad-imran-681b06321/))
+- 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-imran-681b06321/)
 - 💻 [GitHub Portfolio](https://github.com/Muhammad041008)
 - 💻 [Leetcode](https://leetcode.com/u/MuhammadImran0410/)
